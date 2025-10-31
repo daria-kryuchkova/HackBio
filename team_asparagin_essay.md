@@ -54,31 +54,30 @@ Because fresh material is usually required, collecting multiple or serial biopsi
 
 ## References
 
-1. Wang, Y., et al. (2020). *Changing technologies of RNA sequencing and their applications in clinical oncology.* Frontiers in Oncology, 10, Article 447.  
-2. Hong, M., et al. (2020). *RNA sequencing: new technologies and applications in cancer research.* Journal of Hematology & Oncology, 13, Article 166.  
-3. Jiang, L., et al. (2016). *GiniClust: detecting rare cell types from single‑cell gene expression data with Gini index.* Genome Biology, 17, Article 144.  
-4. Patel, A. P., et al. (2014). *Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma.* Science, 344(6190), 1396–1401.  
-5. Tirosh, I., et al. (2016). *Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq.* Science, 352(6282), 189–196.  
-6. Neftel, C., et al. (2019). *An integrative model of cellular states, plasticity, and genetics for glioblastoma.* Cell, 178(4), 835–849.e21.  
+1. Wang, Y., et al. (2020). *Changing technologies of RNA sequencing and their applications in clinical oncology.* Frontiers in Oncology, 10, Article 447. https://doi.org/10.3389/fonc.2020.00447
+2. Hong, M., et al. (2020). *RNA sequencing: new technologies and applications in cancer research.* Journal of Hematology & Oncology, 13, Article 166. https://doi.org/10.1186/s13045-020-01005-x
+3. Jiang, L., et al. (2016). *GiniClust: detecting rare cell types from single‑cell gene expression data with Gini index.* Genome Biology, 17, Article 144. https://doi.org/10.1186/s13059-016-1010-4 
+4. Patel, A. P., et al. (2014). *Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma.* Science, 344(6190), 1396–1401. https://doi.org/10.1126/science.1254257
+5. Tirosh, I., et al. (2016). *Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq.* Science, 352(6282), 189–196. https://doi.org/10.1126/science.aad0501
+6. Neftel, C., et al. (2019). *An integrative model of cellular states, plasticity, and genetics for glioblastoma.* Cell, 178(4), 835–849.e21. https://doi.org/10.1016/j.cell.2019.06.024
 7. Zhang, L., et al. (2021). *Single-cell transcriptomics reveals the landscape of intratumoral heterogeneity and transcriptional plasticity in liver cancer.* Nature Communications, 12, 7279.  
-8. Keren, L., et al. (2018). *A structured tumor-immune microenvironment in triple negative breast cancer revealed by multiplexed ion beam imaging.* Cell, 174(6), 1373–1387.e19.  
+8. Keren, L., et al. (2018). *A structured tumor-immune microenvironment in triple negative breast cancer revealed by multiplexed ion beam imaging.* Cell, 174(6), 1373–1387.e19. https://doi.org/10.1016/j.cell.2018.08.039
 9. Stuart, T., & Satija, R. (2019). *Integrative single-cell analysis.* Nature Reviews Genetics, 20(5), 257–272.  
 10. Suvà, M. L., & Tirosh, I. (2023). *Cancer cell state plasticity as a driver of tumor evolution and therapy resistance.* Cancer Cell, 41(5), 563–577.
-11. Beyes, S., Bediaga, N. G., & Zippo, A. (2021). An Epigenetic Perspective on Intra-Tumour Heterogeneity: Novel Insights and New Challenges from Multiple Fields. Cancers, 13(19), 4969. https://doi.org/10.3390/cancers13194969
-12. Chang, X., Zheng, Y., & Xu, K. (2024). Single-Cell RNA Sequencing: Technological Progress and Biomedical Application in Cancer Research. Molecular biotechnology, 66(7), 1497–1519. https://doi.org/10.1007/s12033-023-00777-0
-13. Sharma, A., Merritt, E., Hu, X., Cruz, A., Jiang, C., Sarkodie, H., Zhou, Z., Malhotra, J., Riedlinger, G. M., & De, S. (2019). Non-Genetic Intra-Tumor Heterogeneity Is a Major Predictor of Phenotypic Heterogeneity and Ongoing Evolutionary Dynamics in Lung Tumors. Cell Reports, 29(8), 2164-2174.e5. https://doi.org/10.1016/j.celrep.2019.10.045
-14. Wu, F., Fan, J., He, Y., Xiong, A., Yu, J., Li, Y., Zhang, Y., Zhao, W., Zhou, F., Li, W., Zhang, J., Zhang, X., Qiao, M., Gao, G., Chen, S., Chen, X., Li, X., Hou, L., Wu, C., & Su, C. (2021). Single-cell profiling of tumor heterogeneity and the microenvironment in advanced non-small cell lung cancer. Nature Communications, 12(1), 2540. https://doi.org/10.1038/s41467-021-22801-0
-15. Zhang, Y., Yang, C., Chen, X., Wu, L., Yuan, Z., Zhang, F., & Qian, B. (2025). Cancer therapy resistance from a spatial‐omics perspective. Clinical and Translational Medicine, 15(7). https://doi.org/10.1002/ctm2.70396
-16. Turajlic S, Sottoriva A, Graham T, Swanton C. Resolving genetic heterogeneity in cancer. Nat Rev Genet. 2019;20(7):404–16. https://doi.org/10.1038/s41576-019-0114-6.
-17. Fustero-Torre, C., Jiménez-Santos, M. J., García-Martín, S., Carretero-Puche, C., García-Jimeno, L., Ivanchuk, V., Di Domenico, T., Gómez-López, G., & Al-Shahrour, F. (2021). Beyondcell: Targeting cancer therapeutic heterogeneity in single-cell RNA-seq data. Genome Medicine, 13(1). https://doi.org/10.1186/s13073-021-01001-x.
-18. Wu, H., Guo, C., Wang, C., Xu, J., Zheng, S., Duan, J., Li, Y., Bai, H., Xu, Q., Ning, F., Wang, F., & Yang, Q. (2023). Single‐cell rna sequencing reveals tumor heterogeneity, microenvironment, and drug‐resistance mechanisms of recurrent glioblastoma. Cancer Science, 114(6), 2609–2621. https://doi.org/10.1111/cas.15773.
-19. Tung, P. Y., Blischak, J. D., Hsiao, C. J., Knowles, D. A., Burnett, J. E., Pritchard, J. K., & Gilad, Y. (2017). Batch effects and the effective design of single-cell gene expression studies. Scientific reports, 7(1), 39921.
-20. Grün, D., Kester, L., & van Oudenaarden, A. (2014). Validation of noise models for single-cell transcriptomics. Nature Methods, 11(6), 637–640. https://doi.org/10.1038/nmeth.2930.
-21. González-Silva, L., Quevedo, L., & Varela, I. (2021). Tumor functional heterogeneity unraveled by scRNA-Seq Technologies. Trends in Cancer, 7(3), 265. https://doi.org/10.1016/j.trecan.2021.02.001.
-22. Tirosh, Itay et al. Cancer cell states: Lessons from ten years of single-cell RNA-sequencing of human tumors Cancer Cell, Volume 42, Issue 9, 1497 - 1506.
-23. Ludwig L. S. Lareau C. A., Ulirsch J.C.,  Buenrostro J. D., Regev A.,  Sankaran V. G. Cancer cell states: Lessons from ten years of single-cell RNA-sequencing of human tumors. Volume 42, Issue 9P1497-1506 September 09, 2024
-24. Yang D, Jones MG, Naranjo S, Rideout WM 3rd, Min KHJ, Ho R, Wu W, Replogle JM, Page JL, Quinn JJ, Horns F, Qiu X, Chen MZ, Freed-Pastor WA, McGinnis CS, Patterson DM, Gartner ZJ, Chow ED, Bivona TG, Chan MM, Yosef N, Jacks T, Weissman JS. Lineage tracing reveals the phylodynamics, plasticity, and paths of tumor evolution. Cell. 2022 May 26;185(11):1905-1923.e25. doi: 10.1016/j.cell.2022.04.015. Epub 2022 May 5. PMID: 35523183; PMCID: PMC9452598.
-
+11. Beyes, S., Bediaga, N. G., & Zippo, A. (2021). *An Epigenetic Perspective on Intra-Tumour Heterogeneity: Novel Insights and New Challenges from Multiple Fields.* Cancers, 13(19), 4969. https://doi.org/10.3390/cancers13194969
+12. Chang, X., Zheng, Y., & Xu, K. (2024). *Single-Cell RNA Sequencing: Technological Progress and Biomedical Application in Cancer Research.* Molecular biotechnology, 66(7), 1497–1519. https://doi.org/10.1007/s12033-023-00777-0
+13. Sharma, A., Merritt, E., Hu, X., Cruz, A., Jiang, C., Sarkodie, H., Zhou, Z., Malhotra, J., Riedlinger, G. M., & De, S. (2019). *Non-Genetic Intra-Tumor Heterogeneity Is a Major Predictor of Phenotypic Heterogeneity and Ongoing Evolutionary Dynamics in Lung Tumors.* Cell Reports, 29(8), 2164-2174.e5. https://doi.org/10.1016/j.celrep.2019.10.045
+14. Wu, F., Fan, J., He, Y., Xiong, A., Yu, J., Li, Y., Zhang, Y., Zhao, W., Zhou, F., Li, W., Zhang, J., Zhang, X., Qiao, M., Gao, G., Chen, S., Chen, X., Li, X., Hou, L., Wu, C., & Su, C. (2021). *Single-cell profiling of tumor heterogeneity and the microenvironment in advanced non-small cell lung cancer.* Nature Communications, 12(1), 2540. https://doi.org/10.1038/s41467-021-22801-0
+15. Zhang, Y., Yang, C., Chen, X., Wu, L., Yuan, Z., Zhang, F., & Qian, B. (2025). *Cancer therapy resistance from a spatial‐omics perspective.* Clinical and Translational Medicine, 15(7). https://doi.org/10.1002/ctm2.70396
+16. Turajlic S, Sottoriva A, Graham T, Swanton C. *Resolving genetic heterogeneity in cancer.* Nat Rev Genet. 2019;20(7):404–16. https://doi.org/10.1038/s41576-019-0114-6.
+17. Fustero-Torre, C., Jiménez-Santos, M. J., García-Martín, S., Carretero-Puche, C., García-Jimeno, L., Ivanchuk, V., Di Domenico, T., Gómez-López, G., & Al-Shahrour, F. (2021). *Beyondcell: Targeting cancer therapeutic heterogeneity in single-cell RNA-seq data.* Genome Medicine, 13(1). https://doi.org/10.1186/s13073-021-01001-x.
+18. Wu, H., Guo, C., Wang, C., Xu, J., Zheng, S., Duan, J., Li, Y., Bai, H., Xu, Q., Ning, F., Wang, F., & Yang, Q. (2023). *Single‐cell rna sequencing reveals tumor heterogeneity, microenvironment, and drug‐resistance mechanisms of recurrent glioblastoma.* Cancer Science, 114(6), 2609–2621. https://doi.org/10.1111/cas.15773.
+19. Tung, P. Y., Blischak, J. D., Hsiao, C. J., Knowles, D. A., Burnett, J. E., Pritchard, J. K., & Gilad, Y. (2017). *Batch effects and the effective design of single-cell gene expression studies.* Scientific reports, 7(1), 39921.
+20. Grün, D., Kester, L., & van Oudenaarden, A. (2014). *Validation of noise models for single-cell transcriptomics.* Nature Methods, 11(6), 637–640. https://doi.org/10.1038/nmeth.2930.
+21. González-Silva, L., Quevedo, L., & Varela, I. (2021). *Tumor functional heterogeneity unraveled by scRNA-Seq Technologies.* Trends in Cancer, 7(3), 265. https://doi.org/10.1016/j.trecan.2021.02.001.
+22. Tirosh, Itay et al. *Cancer cell states: Lessons from ten years of single-cell RNA-sequencing of human tumors.* Cancer Cell, Volume 42, Issue 9, 1497 - 1506.
+23. Ludwig L. S. Lareau C. A., Ulirsch J.C.,  Buenrostro J. D., Regev A.,  Sankaran V. G. *Cancer cell states: Lessons from ten years of single-cell RNA-sequencing of human tumors.* Volume 42, Issue 9P1497-1506 September 09, 2024
+24. Yang D, Jones MG, Naranjo S, Rideout WM 3rd, Min KHJ, Ho R, Wu W, Replogle JM, Page JL, Quinn JJ, Horns F, Qiu X, Chen MZ, Freed-Pastor WA, McGinnis CS, Patterson DM, Gartner ZJ, Chow ED, Bivona TG, Chan MM, Yosef N, Jacks T, Weissman JS. *Lineage tracing reveals the phylodynamics, plasticity, and paths of tumor evolution.* Cell. 2022 May 26;185(11):1905-1923.e25. doi: 10.1016/j.cell.2022.04.015. Epub 2022 May 5. PMID: 35523183; PMCID: PMC9452598. 
 
 
 ## Contributors
